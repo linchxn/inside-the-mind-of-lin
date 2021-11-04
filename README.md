@@ -11,11 +11,11 @@
 #### *Learning process*
 
 > ###### *DAY 1*:
-- Creative Computing workshop, an introduction into the computing world
+- Creative Computing workshop — an introduction into the computing world
 - Learned about the [brief history of computing](https://www.youtube.com/watch?v=O5nskjZ_GoI)
 - Open source 
-- Learned basic computing/circuits with **Arduino**
-- Completed 1st circuit - single lightbulb with a switch ↴
+- Learned basic computing/circuits with ***Arduino***
+- Completed 1st circuit - a single lightbulb with a switch ↴
 > https://user-images.githubusercontent.com/93583850/140336464-f588fa45-370c-4947-b97e-e9e566da8d94.mov
 
 > ###### *DAY 2*:
@@ -25,10 +25,11 @@
 - Created a on [**TinkerCAD**](https://www.tinkercad.com/join) account and began to [learn Arduino](https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE)
     - Began to experiment and complete the following circuits:
         - ###### [RGB LED Colour Mixing](https://www.tinkercad.com/things/6mMIDKYc0fQ-rgb-led-color-mixing/editel?lessonid=E9DG5YCJD0K8UJQ&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE#/lesson-viewer)
+            - *Code LEDS to change to any RGB colour value, aswell as changing the time frequency of it.*
         - ###### [PIR Motion Sensor (Digital Input)](https://www.tinkercad.com/things/3KUM640dJVB-pir-motion-sensor-digital-input/editel?lessonid=EMPJJJYJI4U815F&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE#/lesson-viewer)
-        - ###### [Temperature Sensor (Analog Input)](https://www.tinkercad.com/things/jpqD7y1b5dk-temperature-sensor-analog-input/editel?lessonid=EMVT9T9JD0K5DNO&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer)
-        - ###### [Photoresistor (Analog Input)](https://www.tinkercad.com/things/duhslIq31U0-photoresistor-analog-input/editel?lessonid=E05RHTOJI4U818T&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer) 
+            - *When motion is detected through the infrared lights, it triggers the led to light up - indicating motion.*
         - ###### [Ultrasonic Distance Sensor](https://www.tinkercad.com/things/1nVasrh84PO-ultrasonic-distance-sensor/editel?lessonid=EAYGNT8JL6UYXE2&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer)
+            - *Ultrasonic rangefinders use sound waves to bounce off objects in front of them to measure the distances. <br>Depending on the proximity and distance it will trigger a series of LED outputs.*
         
 > ###### *DAY 3*:
 
@@ -36,9 +37,15 @@
 - Make use of Markdown and HTML (*coding language*)
 - Experimented and completed other circuits
     - Completed the following:
-        - ###### [Love-o-Meter](https://www.tinkercad.com/learn/overview/OVANT4WISCC2EK2;collectionId=OMOZACHJ9IR8LRE)
-        - ###### [Colour Mixing Lamp](https://www.tinkercad.com/learn/overview/OLKSEUGISCC2EKW;collectionId=OMOZACHJ9IR8LRE)
+        - ###### [Love-o-Meter](https://www.tinkercad.com/learn/overview/OVANT4WISCC2EK2;collectionId=OMOZACHJ9IR8LRE)/[Temperature Sensor (Analog Input)](https://www.tinkercad.com/things/jpqD7y1b5dk-temperature-sensor-analog-input/editel?lessonid=EMVT9T9JD0K5DNO&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer)
+            - *Measures the temperature of skin using a Temperature Sensor and the data is displayed though a series of LED outputs.*
+            >| Love-o-Meter/Temperature Sensor digital| LED outputs     |
+            >|------------|-------------|
+            >| ![image](https://user-images.githubusercontent.com/93583850/140395385-900ff95d-408e-4ec3-92c9-99e556af8d6c.png)| ![image](https://user-images.githubusercontent.com/93583850/140394620-8ca763d0-8dec-41df-85ed-d815214bc6a6.png) |           
+        - ###### [Colour Mixing Lamp](https://www.tinkercad.com/learn/overview/OLKSEUGISCC2EKW;collectionId=OMOZACHJ9IR8LRE)/ [Photoresistor (Analog Input)](https://www.tinkercad.com/things/duhslIq31U0-photoresistor-analog-input/editel?lessonid=E05RHTOJI4U818T&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer) 
+            - *LED/lamp changes colours depending on the room's lighting conditions. <br>Detects/analyse room's lighting through a phototransistor.*
         - ###### [Mood Cue](https://www.tinkercad.com/learn/overview/OVSD912ISCC2EMM;collectionId=OMOZACHJ9IR8LRE)
+            - *A mechanical gauge that points to what sort of mood you're in today, where you will manually move the servo motor to a specific position using a potentiometer knob.*
 
 > ###### *DAY 4*:
 
@@ -49,11 +56,9 @@
     >*HTML* ↴
 - Chose a subject to focus on in relation to Creative Computing 
 - Reflecting on Unit 1 project 
-    - specifically focusing on the interactive light idea
-
-
-
-
+    - specifically focusing on the **interactive light** idea, and how it can be transformed into reality through indepth research and aspects on Arduino projects.
+- Research on Noise Detection technology 
+- Research the fineline between ***Privacy vs Convenience*** in relation to *noise detection* and the *interactive light*.
 
 
 ***
