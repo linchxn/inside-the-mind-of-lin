@@ -1,7 +1,6 @@
-# Lin 
-
+# ✲¡ns!de the ✺MIND❋ ☉f lin✧✢ 
+***
 ## Introduction to the world of Creative Computing 
-
 ### *What is Creative Computing?*
 
 “Creative computing” is still a relatively new term depicting the cross-over of the creative arts and computing where contemporary computational skills are applied into the (*digital*) creative industry. As we become more dependent on technology it becomes more exclusive to those on the top of the hierarchy and in charge. Creative approach to computing technology makes it more accessible and stimulates interest among people with little to no interest. I came into this project with minimum interest or knowledge of computing. With resources such as TinkerCAD, well designed guides and visual depiction of circuit simulation made it easier to understand physical computing. If something this simplistic can impact my understanding of computing and made it more accessible to me. Imagine the potential innovations creatives can offer for the computing community and those outside the community? Bridging the gap between those with knowledge and those without.
@@ -60,9 +59,10 @@
 - Research on Noise Detection technology 
 - Research the fineline between ***Privacy vs Convenience*** in relation to *noise detection* and the *interactive light*.
 
-
 ***
-#### *Reflection on physical computing
-
-
+<h3><em>Reflection on physical computing</em></h3>
+<p>On Monday’s Creative Computing workshop, we were first challenged with wiring up an LED using the Arduino kits. I was able to complete the circuit using online resources to aid me through the process. I briefly have experience with circuits throughout my secondary studies, thus the exercise served as a refresher in the fundamentals of physical computing. Nonetheless, the activity provided me basic knowledge and understanding of how physical computing and the Arduino hardware function. As I managed to complete the circuit first, I was able to assist my peers with their own circuits. We figure out what went wrong and how to solve it together. This was an effective community-building exercise, as it prompted people to reach out for help and communicate. </p>
+<p>Using the physical and digital Arduino kits, I experimented and accomplished various projects independently over the week. With the completion of various projects, I was able to have a better grasp of how technology operated within our environment; how the basic circuits I built are also utilised in everyday electronic systems like automated doors and light sensors. It also got me thinking about how some elements/functions of these projects' can be incorporated into the “interactive light” from my Unit 1 project. What I believed to be too difficult and advanced could become a reality.<p>
+    
+***
 
