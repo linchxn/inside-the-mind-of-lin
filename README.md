@@ -12,7 +12,7 @@
 
 > ###### *DAY 1*:
 - Creative Computing workshop, an introduction into the computing world
-- Learned about the brief history of computing 
+- Learned about the [brief history of computing](https://www.youtube.com/watch?v=O5nskjZ_GoI)
 - Open source 
 - Learned basic computing/circuits with **Arduino**
 - Completed 1st circuit - single lightbulb with a switch ↴
@@ -25,10 +25,10 @@
 - Created a on [**TinkerCAD**](https://www.tinkercad.com/join) account and began to [learn Arduino](https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE)
     - Began to experiment and complete the following circuits:
         - ###### [RGB LED Colour Mixing](https://www.tinkercad.com/things/6mMIDKYc0fQ-rgb-led-color-mixing/editel?lessonid=E9DG5YCJD0K8UJQ&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE#/lesson-viewer)
-        - ###### PIR Motion Sensor (Digital Input)
-        - ###### Temperature Sensor (Analog Input)
-        - ###### Photoresistor (Analog Input)
-        - ###### Ultrasonic Distance Sensor
+        - ###### [PIR Motion Sensor (Digital Input)](https://www.tinkercad.com/things/3KUM640dJVB-pir-motion-sensor-digital-input/editel?lessonid=EMPJJJYJI4U815F&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE#/lesson-viewer)
+        - ###### [Temperature Sensor (Analog Input)](https://www.tinkercad.com/things/jpqD7y1b5dk-temperature-sensor-analog-input/editel?lessonid=EMVT9T9JD0K5DNO&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer)
+        - ###### [Photoresistor (Analog Input)](https://www.tinkercad.com/things/duhslIq31U0-photoresistor-analog-input/editel?lessonid=E05RHTOJI4U818T&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer) 
+        - ###### [Ultrasonic Distance Sensor](https://www.tinkercad.com/things/1nVasrh84PO-ultrasonic-distance-sensor/editel?lessonid=EAYGNT8JL6UYXE2&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE&tenant=circuits#/lesson-viewer)
         
 > ###### *DAY 3*:
 
@@ -36,9 +36,24 @@
 - Make use of Markdown and HTML (*coding language*)
 - Experimented and completed other circuits
     - Completed the following:
-        - ###### Love-o-Meter
-        - ###### Colour Mixing Lamp
-        - ###### Mood Cue
+        - ###### [Love-o-Meter](https://www.tinkercad.com/learn/overview/OVANT4WISCC2EK2;collectionId=OMOZACHJ9IR8LRE)
+        - ###### [Colour Mixing Lamp](https://www.tinkercad.com/learn/overview/OLKSEUGISCC2EKW;collectionId=OMOZACHJ9IR8LRE)
+        - ###### [Mood Cue](https://www.tinkercad.com/learn/overview/OVSD912ISCC2EMM;collectionId=OMOZACHJ9IR8LRE)
+
+> ###### *DAY 4*:
+
+- Continue to edit and add to this readme.file
+    - Mainly used markdown to code this file, however I began to use HTML to familiarise with it 
+    >*Markdown* ↴
+    >![image](https://user-images.githubusercontent.com/93583850/140388988-66ef9a4c-205c-48c1-93fa-6d83c39697ae.png)
+    >*HTML* ↴
+- Chose a subject to focus on in relation to Creative Computing 
+- Reflecting on Unit 1 project 
+    - specifically focusing on the interactive light idea
+
+
+
+
 
 
 ***
