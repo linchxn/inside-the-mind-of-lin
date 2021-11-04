@@ -19,12 +19,12 @@
 > https://user-images.githubusercontent.com/93583850/140336464-f588fa45-370c-4947-b97e-e9e566da8d94.mov
 
 > ###### *DAY 2*:
-- Created a **GitHub** account and made a new repository 
-- Read and understood the difference between *markdown* and *HTML*
-- Read and understood “*README File – Everything you Need to Know*”
-- Created a on **TinkerCAD** account and began to learn Arduino
+- Created a [**GitHub**](https://github.com/signup?source=login) account and made a new repository 
+- Read and understood the difference between [*Markdown* and *HTML*](https://www.markdownguide.org/basic-syntax/)
+- Read and understood “[*README File – Everything you Need to Know*](https://www.mygreatlearning.com/blog/readme-file/)”
+- Created a on [**TinkerCAD**](https://www.tinkercad.com/join) account and began to [learn Arduino](https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE)
     - Began to experiment and complete the following circuits:
-        - ###### RGB LED Colour Mixing
+        - ###### [RGB LED Colour Mixing](https://www.tinkercad.com/things/6mMIDKYc0fQ-rgb-led-color-mixing/editel?lessonid=E9DG5YCJD0K8UJQ&projectid=OMOZACHJ9IR8LRE&collectionid=OMOZACHJ9IR8LRE#/lesson-viewer)
         - ###### PIR Motion Sensor (Digital Input)
         - ###### Temperature Sensor (Analog Input)
         - ###### Photoresistor (Analog Input)
@@ -33,7 +33,7 @@
 > ###### *DAY 3*:
 
 - Created this readme.file 
-- Make use of markdown and HTML (*coding language*)
+- Make use of Markdown and HTML (*coding language*)
 - Experimented and completed other circuits
     - Completed the following:
         - ###### Love-o-Meter
