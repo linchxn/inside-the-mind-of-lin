@@ -1,6 +1,5 @@
 # ✲¡ns!de the ✺MIND❋ ☉f lin✧✢ 
 ***
-## Introduction to the world of Creative Computing 
 ### *What is Creative Computing?*
 
 “Creative computing” is still a relatively new term depicting the cross-over of the creative arts and computing where contemporary computational skills are applied into the (*digital*) creative industry. As we become more dependent on technology it becomes more exclusive to those on the top of the hierarchy and in charge. Creative approach to computing technology makes it more accessible and stimulates interest among people with little to no interest. I came into this project with minimum interest or knowledge of computing. With resources such as TinkerCAD, well designed guides and visual depiction of circuit simulation made it easier to understand physical computing. If something this simplistic can impact my understanding of computing and made it more accessible to me. Imagine the potential innovations creatives can offer for the computing community and those outside the community? Bridging the gap between those with knowledge and those without.
