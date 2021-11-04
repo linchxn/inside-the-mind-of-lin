@@ -42,7 +42,6 @@
 
 
 
-
 ###### *Day 3*:
 
 >•	Created this readme.file 
@@ -53,8 +52,7 @@
 ***
 #### *Reflection on physical computing*
 
+> ![jjhh](https://user-images.githubusercontent.com/93583850/140240526-c5ff55c7-d131-40d6-9398-5dccc0873c8e.gif)
 
-
-> Uploading IMG-5491.mov…
 
 
