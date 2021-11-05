@@ -1,14 +1,14 @@
 # ✲¡ns!de the ✺MIND❋ ☉f lin✧✢ 
 ***
-### *What is Creative Computing?*
+### ✻ *What is Creative Cmputing?* ✶∞
 
 "Creative computing" is a relatively new term that describes the intersection of the creative arts and computing, in which contemporary computational skills are applied to the (*digital*) creative industries.
 As we become more reliant on technology, it becomes increasingly exclusive to those at the top of the hierarchy and in positions of power. A creative approach to computing technology can make it more accessible and piques the curiosity of those who previously had little or no interest. I came into this project with minimal interest in computing and little prior experience; through tools like TinkerCAD, physical computing became easier to understand thanks to the well-designed guides, and visual depictions of circuit simulations. If something as simple as this can improve my grasp of computing and make it more accessible to me, consider the possible innovations that creatives can bring to the computing community and to others outside of it.
->*We as creatives have the potential to bridge the knowledge gap between the elites.*
+>*We as creatives have the potential to **bridge the** knowledge **gap** between the elites .*
 
 ***
 
-#### *Learning process*
+#### ✧ *Learning process* 
 
 > ###### *DAY 1*:
 - Creative Computing workshop — an introduction into the computing world
@@ -61,12 +61,12 @@ As we become more reliant on technology, it becomes increasingly exclusive to th
 - Research the fineline between ***Privacy vs Convenience*** in relation to *noise detection* and the *interactive light*.
 
 ***
-<h3><em>Reflection on physical computing</em></h3>
+<h3>✺ <em>Reflection on physical computing</em></h3>
 <p>On Monday’s Creative Computing workshop, we were first challenged with wiring up an LED using the Arduino kits. I was able to complete the circuit using online resources to aid me through the process. I briefly have experience with circuits throughout my secondary studies, thus the exercise served as a refresher in the fundamentals of physical computing. Nonetheless, the activity provided me basic knowledge and understanding of how physical computing and the Arduino hardware function. As I managed to complete the circuit first, I was able to assist my peers with their own circuits. We figure out what went wrong and how to solve it together. This was an effective community-building exercise, as it prompted people to reach out for help and communicate.</p>
 <p>Using the physical and digital Arduino kits, I experimented and accomplished various projects independently over the week. With the completion of various projects, I was able to have a better grasp of how technology operated within our environment; how the basic circuits I built are also utilised in everyday electronic systems like automated doors and light sensors. It also got me thinking about how some elements/functions of these projects' can be incorporated into the “interactive light” from my Unit 1 project. What I believed to be too difficult and advanced could become a reality.<p>
     
 ***    
-### *Interactive Light* 
+### ✺ *Interactive Light* 
 </p>
 <p>We developed a prototype that will <strong>DETECT</strong> and <strong>DISPLAY</strong> data from its surroundings. <br> This was part of my Unit 1 project, which included an “<strong><em>Interactive Light/Lamp</strong></em>” as one of the intervention options. The device will detect its environment using a variety of parameters and will display a colour light that corresponds to the data it has collected. The changing colours will visually representation the data acquired. It was through the Arduino projects that I discovered this is achievable; using numerous components that can monitor noise levels, motion/movements, temperature, and people's moods. The device will then calculate the overall atmosphere of the shared space by combining parameters and data results. Through this whole process it will then emit a single coloured LED light that reflects the mood of its surrounding.</p>
 <h6>NOISE LEVEL:<h6>
@@ -81,7 +81,7 @@ Furthermore, a change in temperature may indicate that there are activities (or 
 	<p>Moods and emotions can be manually entered by individuals or groups.</p>
 	
 ***
-### *Nose Detection Technology*
+### ❋ *Nose Detection Technology*
 <p>Noise detection technology is not exactly new, but there's a scarcity of knowledge about it. However, I managed to find three companies that specialise offering noise detection/sensors— specifically for Airbnb hosts.  These devices were created to address the arising issue of renters trashing and having raucous parties in rentals. Three different noise sensors are available, each with different additional features. <br>
 <p>These devices respect the privacy of renters, as well as comprehending the ethical and moral issues, is important to note. These sensors can only track overall noise levels. The noise sensors do not record either audio or films. Instead, they keep track of changes in the environment's noise levels. Users will receive an app notification when the decibel level hits a certain level for an extended length of time, indicating that something is awry.
 
@@ -90,7 +90,7 @@ Furthermore, a change in temperature may indicate that there are activities (or 
 ###### [The Roomonitor](https://roomonitor.com/) sensor keeps you informed about noise levels throughout the day.
 	
 ***
-### *Privacy vs Convenience*
+### ❋ *Privacy vs Convenience*
 Sound-monitoring devices are fairly common now that I think about it. In fact, you most likely already have one in your home, as well as on your phone. When you say Alexa or hey Google, your home smart devices can be activated. When you say hey Siri or hey Cortana to the voice assistants in your phone or laptop, the same thing happens. As a result, we already have technology that can recognise noise and command words.
 > #### Which bring the highly debated question; *are they always listening?*
 
@@ -103,8 +103,8 @@ Technology provides convenience, as a result people are becoming more reliant on
 > ##### Is privacy sold for the sake of convenience?
 > ##### Are we trading privacy for convenience?
 
-## On the other hand, is it really that bad of an idea?
-Articles that delve deeper into this topic:
+### On the other hand, *is it really that bad of an idea?*
+*Articles that delve deeper into this topic:*
 	
 > ###### [Privacy vs Convenience: Is There a Middle Ground?](https://dzone.com/articles/privacy-vs-convenience-is-there-a-middle-ground) 	
 > ###### [Convenience vs Privacy: why you shouldn’t be too worried](https://www.allerin.com/blog/convenience-vs-privacy-why-you-shouldnt-be-too-worried)	
