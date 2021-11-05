@@ -51,9 +51,6 @@ As we become more reliant on technology, it becomes increasingly exclusive to th
 
 - Continue to edit and add to this readme.file
     - Mainly used markdown to code this file, however familiarise with other coding languges I began to use HTML 
-    >*Markdown* ↴
-    >![image](https://user-images.githubusercontent.com/93583850/140388988-66ef9a4c-205c-48c1-93fa-6d83c39697ae.png)
-    >*HTML* ↴
     >| *Markdown*↴| *HTML*↴    |
     >|------------|-------------|
     >| ![image](https://user-images.githubusercontent.com/93583850/140388988-66ef9a4c-205c-48c1-93fa-6d83c39697ae.png) |![image](https://user-images.githubusercontent.com/93583850/140439870-49981b2e-f29e-41bc-a13c-bb4b0c1f7622.png) |
@@ -95,6 +92,16 @@ Furthermore, a change in temperature may indicate that there are activities (or 
 ***
 ### *Privacy vs Convenience*
 Sound-monitoring devices are fairly common now that I think about it. In fact, you most likely already have one in your home, as well as on your phone. When you say Alexa or hey Google, your home smart devices can be activated. When you say hey Siri or hey Cortana to the voice assistants in your phone or laptop, the same thing happens. As a result, we already have technology that can recognise noise and command words.
-> Which bring the highly debated question; are they always listening?
+> #### Which bring the highly debated question; *are they always listening?*
+
+I recall people being concerned about Alexa's technology when it was first released. Worried that these devices would listen in on their conversations and record them, infringing on their right to free speech. This issue, however, did not deter them from using the technology as they began to appreciate the convenience it brought to their homes and lives. Instead of having to take your device out, open a browser, type in your question, and wait for an answer, this technology can actually answer your question by simply speaking to it.
+
+	
+Technology provides convenience, as a result people are becoming more reliant on it.
+<br> What about the issue of privacy that they were initially concerned about?
+###### Where do you draw the line between convenience and privacy?
+###### Is privacy sold for the sake of convenience?
+###### Are we trading privacy for convenience?
+
 
 
