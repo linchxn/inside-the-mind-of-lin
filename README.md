@@ -99,9 +99,9 @@ I recall people being concerned about Alexa's technology when it was first relea
 	
 Technology provides convenience, as a result people are becoming more reliant on it.
 <br> What about the issue of privacy that they were initially concerned about?
-###### Where do you draw the line between convenience and privacy?
-###### Is privacy sold for the sake of convenience?
-###### Are we trading privacy for convenience?
+> ##### Where do you draw the line between convenience and privacy?
+> ##### Is privacy sold for the sake of convenience?
+> ##### Are we trading privacy for convenience?
 
 <p>(https://dzone.com/articles/privacy-vs-convenience-is-there-a-middle-ground) <br>
 (https://www.allerin.com/blog/convenience-vs-privacy-why-you-shouldnt-be-too-worried) <br>
