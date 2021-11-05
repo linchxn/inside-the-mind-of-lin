@@ -103,10 +103,11 @@ Technology provides convenience, as a result people are becoming more reliant on
 > ##### Is privacy sold for the sake of convenience?
 > ##### Are we trading privacy for convenience?
 
-<p>(https://dzone.com/articles/privacy-vs-convenience-is-there-a-middle-ground) <br>
-(https://www.allerin.com/blog/convenience-vs-privacy-why-you-shouldnt-be-too-worried) <br>
-(https://www.publicissapient.com/insights/privacy-or-convenience--what-s-the-tradeoff) <br>
-(https://www.theverge.com/2019/9/26/20885512/amazon-alexa-voice-assistant-privacy-features-trust) <br>
-(https://www.americaneagle.com/insights/blog/post/2017/06/30/personalization-and-the-amazon-echo-balancing-privacy-and-convenience) <br>
-(https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) <br>
-
+## On the other hand, is it really that bad of an idea?
+Articles that delve deeper into this topic:
+	
+> ###### [Privacy vs Convenience: Is There a Middle Ground?](https://dzone.com/articles/privacy-vs-convenience-is-there-a-middle-ground) 	
+> ###### [Convenience vs Privacy: why you shouldn’t be too worried](https://www.allerin.com/blog/convenience-vs-privacy-why-you-shouldnt-be-too-worried)	
+> ##### [Privacy or Convenience: What’s the Tradeoff?](https://www.publicissapient.com/insights/privacy-or-convenience--what-s-the-tradeoff) 	
+> ##### [To use Alexa, you have to trust Amazon](https://www.theverge.com/2019/9/26/20885512/amazon-alexa-voice-assistant-privacy-features-trust) 	
+> ##### [Personalization and the Amazon Echo: Balancing Privacy and Convenience](https://www.americaneagle.com/insights/blog/post/2017/06/30/personalization-and-the-amazon-echo-balancing-privacy-and-convenience) 
