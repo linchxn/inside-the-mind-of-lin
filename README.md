@@ -85,9 +85,9 @@ Furthermore, a change in temperature may indicate that there are activities (or 
 <p>Noise detection technology is not exactly new, but there's a scarcity of knowledge about it. However, I managed to find three companies that specialise offering noise detection/sensors— specifically for Airbnb hosts.  These devices were created to address the arising issue of renters trashing and having raucous parties in rentals. Three different noise sensors are available, each with different additional features. <br>
 <p>These devices respect the privacy of renters, as well as comprehending the ethical and moral issues, is important to note. These sensors can only track overall noise levels. The noise sensors do not record either audio or films. Instead, they keep track of changes in the environment's noise levels. Users will receive an app notification when the decibel level hits a certain level for an extended length of time, indicating that something is awry.
 
-###### Minut not only monitors noise, but it also monitors temperature, motion, and humidity. It can also be utilised as an alarm when it is unoccupied.
-###### NoiseAware Indoor Sensor will notify you within minutes of sustained noise levels, not instantaneous noises like doors slamming. 
-###### The Roomonitor sensor keeps you informed about noise levels throughout the day.
+###### [Minut](https://www.minut.com/) not only monitors noise, but it also monitors temperature, motion, and humidity. It can also be utilised as an alarm when it is unoccupied.
+###### [NoiseAware](https://noiseaware.com/) Indoor Sensor will notify you within minutes of sustained noise levels, not instantaneous noises like doors slamming. 
+###### [The Roomonitor](https://roomonitor.com/) sensor keeps you informed about noise levels throughout the day.
 	
 ***
 ### *Privacy vs Convenience*
