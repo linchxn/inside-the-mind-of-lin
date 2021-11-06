@@ -50,7 +50,7 @@ As we become more reliant on technology, it becomes increasingly exclusive to th
 > ###### *DAY 4*:
 
 - Continue to edit and add to this readme.file
-    - Mainly used markdown to code this file, however to familiarise with other coding languges I began to use HTML 
+    - Mainly used markdown to code this file, however to familiarise with other coding languages  I began to use HTML 
     >| *Markdown*↴| *HTML*↴    |
     >|------------|-------------|
     >| ![image](https://user-images.githubusercontent.com/93583850/140388988-66ef9a4c-205c-48c1-93fa-6d83c39697ae.png) |![image](https://user-images.githubusercontent.com/93583850/140439870-49981b2e-f29e-41bc-a13c-bb4b0c1f7622.png) |
